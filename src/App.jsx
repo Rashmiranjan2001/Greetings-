@@ -4,7 +4,7 @@ function App() {
     let curDate = new Date();
     curDate = curDate.getHours();
 
-    let greeting = "";2
+    let greeting = "";
     const cssStyle = {};
 
     if (curDate >= 1 && curDate < 12) {
